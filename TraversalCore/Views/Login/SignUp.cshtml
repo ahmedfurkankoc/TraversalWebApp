@@ -17,37 +17,34 @@
 <body>
 	<div class="wrapper">
 		<div class="inner">
-			<form action="">
+			<form method="post">
 				<h3>Yeni Hesap Oluşturun</h3>
 				<div class="form-holder">
 					<span class="lnr lnr-user"></span>
-					<input type="text" class="form-control" placeholder="Adınız">
+					<input type="text" class="form-control" name="Name" placeholder="Adınız">
 				</div>
 				<div class="form-holder">
 					<span class="lnr lnr-star"></span>
-					<input type="text" class="form-control" placeholder="Soyadınız">
+					<input type="text" class="form-control" name="Surname" placeholder="Soyadınız">
 				</div>
 				<div class="form-holder">
 					<span class="lnr lnr-envelope"></span>
-					<input type="text" class="form-control" placeholder="Mail Adresiniz">
+					<input type="text" class="form-control" name="Email" placeholder="Mail Adresiniz">
 				</div>
 				<div class="form-holder">
 					<span class="lnr lnr-phone-handset"></span>
-					<input type="text" class="form-control" placeholder="Telefon Numaranız">
+					<input type="text" class="form-control" name="Username" placeholder="Kullanıcı Adınız">
 				</div>
 				<div class="form-holder">
 					<span class="lnr lnr-lock"></span>
-					<input type="password" class="form-control" placeholder="Şifreniz">
+					<input type="password" class="form-control" name="Password" placeholder="Şifreniz">
 				</div>
 				<div class="form-holder">
 					<span class="lnr lnr-lock"></span>
-					<input type="password" class="form-control" placeholder="Şifre Tekrar">
+					<input type="password" class="form-control" name="ConfirmPassword" placeholder="Şifre Tekrar">
 				</div>
 				<button>
 					<span>Kayıt Ol</span>
-				</button>
-				<button>
-					<a href="/Login/SignIn" style="list-style: none; color: white;">Giriş Yap</a>
 				</button>
 			</form>
 		</div>

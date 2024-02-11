@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmed\\Desktop\\TraversalCore\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\ahmed\\Desktop\\TraversalApp\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmed\\Desktop\\TraversalCore\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\ahmed\\Desktop\\TraversalApp\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\TraversalCore\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalCore\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmed\\Desktop\\TraversalCore\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

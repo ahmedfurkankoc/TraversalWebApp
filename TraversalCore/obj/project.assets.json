@@ -8149,11 +8149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\TraversalCore\\TraversalCore\\TraversalCore.csproj",
+      "projectUniqueName": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\TraversalCore.csproj",
       "projectName": "TraversalCore",
-      "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalCore\\TraversalCore\\TraversalCore.csproj",
+      "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\TraversalCore.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmed\\Desktop\\TraversalCore\\TraversalCore\\obj\\",
+      "outputPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8174,14 +8174,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ahmed\\Desktop\\TraversalCore\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalCore\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\ahmed\\Desktop\\TraversalApp\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\ahmed\\Desktop\\TraversalCore\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalCore\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\ahmed\\Desktop\\TraversalApp\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\ahmed\\Desktop\\TraversalCore\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalCore\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\ahmed\\Desktop\\TraversalApp\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
