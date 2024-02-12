@@ -1,57 +1,103 @@
-﻿
+﻿@model TraversalCore.Models.UserRegisterVM
 @{
     Layout = null;
 }
 
 <!DOCTYPE html>
-<html>
+<html lang="tr">
+
 <head>
-	<meta charset="utf-8">
-	<title>Traversal Kullanıcı Kayıt</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<!-- LINEARICONS -->
-	<link rel="stylesheet" href="/colorlib-regform-26/fonts/linearicons/style.css">
-	<!-- STYLE CSS -->
-	<link rel="stylesheet" href="/colorlib-regform-26/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	<meta name="keywords" content="" />
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+	<link rel="stylesheet" href="/web/css/style.css" type="text/css" media="all" />
+	<title>Traversal Kullanıcı Kayıt Formu</title>
 </head>
 <body>
-	<div class="wrapper">
-		<div class="inner">
-			<form method="post">
-				<h3>Yeni Hesap Oluşturun</h3>
-				<div class="form-holder">
-					<span class="lnr lnr-user"></span>
-					<input type="text" class="form-control" name="Name" placeholder="Adınız">
+	<!-- /login-section -->
+	<section class="w3l-login-6">
+		<div class="login-hny">
+			<div class="form-content">
+				<div class="form-right">
+					<div class="overlay">
+						<div class="grid-info-form">
+							<h5>Traversal</h5>
+							<h3>Hesap Oluştur</h3>
+							<p>
+								Deneyimli rehberlerimiz eşliğinde dünyanın dört bir tarafında unutulmaz bir deneyim yaşamak için hemen kayıt ol.
+							</p>
+							<a href="/Login/SignIn" class="read-more-1 btn" target="_blank">Giriş Yap</a>
+						</div>
+
+					</div>
 				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-star"></span>
-					<input type="text" class="form-control" name="Surname" placeholder="Soyadınız">
+				<div class="form-left">
+					<div class="middle">
+						<h4>Hesap Oluştur</h4>
+					</div>
+					<form method="post" class="signin-form">
+						<div class="form-input">
+							<label>Adı</label>
+							<input type="text" asp-for="Name" >
+							<span asp-validation-for="Name" class="text-danger"></span>
+						</div>
+						<div class="form-input">
+							<label>Soyadı</label>
+							<input type="text" asp-for="Surname"  />
+							<span asp-validation-for="Surname" class="text-danger"></span>
+						</div>
+						<div class="form-input">
+							<label>Kullanıcı Adı</label>
+							<input type="text" asp-for="Username"  />
+							<span asp-validation-for="Username" class="text-danger"></span>
+						</div>
+						<div class="form-input">
+							<label>Email</label>
+							<input type="email" asp-for="Email"  />
+							<span asp-validation-for="Email" class="text-danger"></span>
+						</div>
+						<div class="form-input">
+							<label>Şifre</label>
+							<input type="password" asp-for="Password" />
+							<span asp-validation-for="Password" class="text-danger"></span>
+						</div>
+						<div class="form-input">
+							<label>Şifre Tekrar</label>
+							<input type="password" asp-for="ConfirmPassword" />
+							<span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+						</div>
+						<div class="text-danger mb-2" asp-validation-summary="ModelOnly">
+							
+						</div>
+						<label class="container">
+							Şartları okudum <a href="#">kabul ediyorum</a>
+							<input type="checkbox">
+							<span class="checkmark"></span>
+						</label>
+						<button class="btn">Kayıt ol</button>
+					</form>
+					<div class="copy-right text-center">
+						<p>
+							© @DateTime.Now.Year Tüm hakları saklıdır. 
+						</p>
+					</div>
 				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-envelope"></span>
-					<input type="text" class="form-control" name="Email" placeholder="Mail Adresiniz">
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-phone-handset"></span>
-					<input type="text" class="form-control" name="Username" placeholder="Kullanıcı Adınız">
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-lock"></span>
-					<input type="password" class="form-control" name="Password" placeholder="Şifreniz">
-				</div>
-				<div class="form-holder">
-					<span class="lnr lnr-lock"></span>
-					<input type="password" class="form-control" name="ConfirmPassword" placeholder="Şifre Tekrar">
-				</div>
-				<button>
-					<span>Kayıt Ol</span>
-				</button>
-			</form>
+
+			</div>
+
 		</div>
+	</section>
+	<!-- //login-section -->
 
-	</div>
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
 
-	<script src="/colorlib-regform-26/js/jquery-3.3.1.min.js"></script>
-	<script src="/colorlib-regform-26/js/main.js"></script>
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
 </body>
 </html>

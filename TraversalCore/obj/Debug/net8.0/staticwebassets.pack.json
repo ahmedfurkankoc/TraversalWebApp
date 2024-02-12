@@ -885,86 +885,6 @@
       "PackagePath": "staticwebassets\\Traversal-Starter\\services.html"
     },
     {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\css\\style.css",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\css\\style.css"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\css\\style.css.map",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\css\\style.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\css\\style.scss",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\css\\style.scss"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\linearicons\\Read Me.txt",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\linearicons\\Read Me.txt"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.eot",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.eot"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.svg",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.svg"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.ttf",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.ttf"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.woff",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.woff"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.woff2",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\linearicons\\fonts\\Linearicons-Free.woff2"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\linearicons\\selection.json",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\linearicons\\selection.json"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\linearicons\\style.css",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\linearicons\\style.css"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\muli\\Muli-Bold.ttf",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\muli\\Muli-Bold.ttf"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\muli\\Muli-Regular.ttf",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\muli\\Muli-Regular.ttf"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\fonts\\muli\\Muli-SemiBold.ttf",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\fonts\\muli\\Muli-SemiBold.ttf"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\images\\image-1.png",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\images\\image-1.png"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\images\\image-2.png",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\images\\image-2.png"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\index.html",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\js\\jquery-3.3.1.min.js",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\js\\jquery-3.3.1.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\js\\main.js",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\js\\main.js"
-    },
-    {
-      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\colorlib-regform-26\\readme.txt",
-      "PackagePath": "staticwebassets\\colorlib-regform-26\\readme.txt"
-    },
-    {
       "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -1203,6 +1123,22 @@
     {
       "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\web\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\wwwroot\\web\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-license.txt"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TraversalCore.Microsoft.AspNetCore.StaticWebAssets.props",
