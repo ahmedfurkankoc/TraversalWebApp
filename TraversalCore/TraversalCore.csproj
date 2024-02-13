@@ -38,4 +38,9 @@
     </Content>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Member\Data\" />
+    <Folder Include="wwwroot\userimg\" />
+  </ItemGroup>
+
 </Project>
