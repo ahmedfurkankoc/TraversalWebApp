@@ -365,6 +365,9 @@ namespace DataAccessLayer.Migrations
                     b.Property<string>("InstagramUrl")
                         .HasColumnType("longtext");
 
+                    b.Property<string>("Name")
+                        .HasColumnType("longtext");
+
                     b.Property<bool>("Status")
                         .HasColumnType("tinyint(1)");
 
