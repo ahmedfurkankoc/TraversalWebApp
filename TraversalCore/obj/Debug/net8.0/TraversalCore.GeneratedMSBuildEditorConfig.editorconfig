@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ahmed\Desktop\TraversalApp\TraversalCore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/Comment/DeleteComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudFxEZWxldGVDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/Comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +48,30 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/Destination/UpdateDestination.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVzdGluYXRpb25cVXBkYXRlRGVzdGluYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/Excel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRXhjZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/Guide/AddGuide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3VpZGVcQWRkR3VpZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/Guide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3VpZGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/PdfReport/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGRmUmVwb3J0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/User/ReservationUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxSZXNlcnZhdGlvblVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Areas/Admin/Views/_ViewImports.cshtml]
@@ -118,6 +150,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/ErrorPage/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -174,8 +210,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfU2lkZWJhclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_AdminGuideList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluR3VpZGVMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_Cards1Statistic/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhcmRzMVN0YXRpc3RpY1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_Cards2Statistic/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NhcmRzMlN0YXRpc3RpY1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_CommentList/Default.cshtml]
@@ -184,6 +228,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_DashboardBanner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZEJhbm5lclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_DestinationGraph/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rlc3RpbmF0aW9uR3JhcGhcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_DestinationStatistic/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rlc3RpbmF0aW9uU3RhdGlzdGljXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_Feature/Default.cshtml]
@@ -220,6 +272,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_Testimonial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Components/_TotalRevenue/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1RvdGFsUmV2ZW51ZVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ahmed/Desktop/TraversalApp/TraversalCore/Views/Shared/Error.cshtml]

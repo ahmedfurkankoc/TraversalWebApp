@@ -1,8 +1,10 @@
+using BusinessLayer.Container;
 using DataAccessLayer.Concrete;
 using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
-using System.Net;
+using Microsoft.Extensions.Logging;
+using Serilog;
 using TraversalCore.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +12,24 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddDbContext<Context>();
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
+
+//Logging
+var path = Directory.GetCurrentDirectory();
+var logDirectory = "Logs";
+var logFilePath = Path.Combine(path, logDirectory, "log.txt"); ;
+
+builder.Services.AddLogging(x =>
+{
+	x.ClearProviders();
+	x.SetMinimumLevel(LogLevel.Debug);
+    x.AddSerilog(new LoggerConfiguration()
+        .WriteTo.File(logFilePath) // Log dosyasýnýn adý ve yolu
+        .CreateLogger());
+});
+
+//IoT
+builder.Services.ContainerDependency();
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddMvc(config =>
 {
@@ -20,6 +40,8 @@ builder.Services.AddMvc();
 
 var app = builder.Build();
 
+
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
@@ -27,6 +49,8 @@ if (!app.Environment.IsDevelopment())
 	// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
 	app.UseHsts();
 }
+
+app.UseStatusCodePagesWithReExecute("/ErrorPage/Error404", "?code={0}");
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();

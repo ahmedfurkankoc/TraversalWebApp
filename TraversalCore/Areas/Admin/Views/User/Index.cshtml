@@ -1,0 +1,50 @@
+﻿@model List<AppUser>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int counter = 0;
+}
+
+<div class="d-flex justify-content-between align-items-center my-4">
+    <h1>Kullanıcılar</h1>
+    <a href="/Login/SignUp" class="btn btn-warning" target="_blank">Yeni Kullanıcı Kaydı</a>
+</div>
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Ad Soyad</th>
+        <th>Kullanıcı Adı</th>
+        <th>Email</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+        <th>Yorumlar</th>
+        <th>Tur Geçmişi</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            @(counter = counter + 1)
+            <td>@counter</td>
+            <td>@item.Name @item.Surname</td>
+            <td>@item.UserName</td>
+            <td>@item.Email</td>
+            <td><a href="/Admin/User/DeleteUser/@item.Id" class="btn btn-danger" onclick="confirmDelete()">Sil</a></td>
+            <td><a href="/Admin/User/EditUser/@item.Id" class="btn btn-success">Düzenle</a></td>
+            <td><a href="/Admin/User/CommentUser/@item.Id" class="btn btn-primary">Yorumlar</a></td>
+            <td><a href="/Admin/User/ReservationUser/@item.Id" class="btn btn-secondary">Tur Geçmişi</a></td>
+        </tr>
+    }
+</table>
+
+<script>
+    function confirmDelete() {
+
+        var result = confirm("Kullanıcıyı silmek istediğinize emin misiniz?")
+
+        if (result) {
+            alert("Kullanıcı silindi!")
+        } else {
+            alert("Silme işlemi iptal edildi")
+        }
+    }
+</script>

@@ -31,9 +31,9 @@ C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
-C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.genruntimeconfig.cache
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
