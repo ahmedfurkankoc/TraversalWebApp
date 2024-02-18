@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rZZtrzM54enghfwbxs/Zc5PuwDHSNPZqu7S9mK1xGD8+ZVxA26QrDAphWKCBnuxUhYUPXg6ff5xef+rLrR26Zg==",
+  "dgSpecHash": "/x7OH6yyPqyUyNc24Z3pWr5zTDxmOfzOj8MBW9dpByyJmTEa06Z2aBnQBxJiu0lwbUGp3CwqIBzd3YsvtgPN3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\TraversalCore.csproj",
   "expectedPackageFiles": [
@@ -70,6 +70,7 @@
     "C:\\Users\\ahmed\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.5\\k4os.compression.lz4.streams.1.3.5.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\mailkit\\4.3.0\\mailkit.4.3.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.2\\microsoft.aspnetcore.components.analyzers.8.0.2.nupkg.sha512",
@@ -137,6 +138,7 @@
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\8.0.1\\microsoft.visualstudio.web.codegenerators.mvc.8.0.1.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\mimekit\\4.3.0\\mimekit.4.3.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\mono.texttemplating\\2.3.1\\mono.texttemplating.2.3.1.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\mysql.data\\8.3.0\\mysql.data.8.3.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\mysql.entityframeworkcore\\8.0.0\\mysql.entityframeworkcore.8.0.0.nupkg.sha512",

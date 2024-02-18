@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\controllers\\passwordchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\controllers\\passwordchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\views\\passwordchange\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\views\\passwordchange\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\models\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\models\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\areas\\admin\\views\\guide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\areas\\admin\\views\\guide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\PasswordChange\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "TraversalCore\\Views\\PasswordChange\\ForgetPassword.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\PasswordChange\\ForgetPassword.cshtml",
+              "RelativeToolTip": "TraversalCore\\Views\\PasswordChange\\ForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:43:03.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordChangeController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Controllers\\PasswordChangeController.cs",
+              "RelativeDocumentMoniker": "TraversalCore\\Controllers\\PasswordChangeController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Controllers\\PasswordChangeController.cs",
+              "RelativeToolTip": "TraversalCore\\Controllers\\PasswordChangeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:30:31.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgetPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Models\\ForgetPasswordVM.cs",
+              "RelativeDocumentMoniker": "TraversalCore\\Models\\ForgetPasswordVM.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Models\\ForgetPasswordVM.cs",
+              "RelativeToolTip": "TraversalCore\\Models\\ForgetPasswordVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:29:51.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
+              "RelativeDocumentMoniker": "TraversalCore\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
+              "RelativeToolTip": "TraversalCore\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T15:20:00.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
