@@ -1,7 +1,13 @@
 # TraversalApp
+Web app for travel agencies
 
-Travel agency web app build with Asp.NET Core 8
+## Description
+Here's what you can do with this app
 
-Entity Framework Core
+## Technologies
+* .NET Core
+* SignalR
+* MySQL
+* JS
+* CSS
 
-N Tier Architecture
