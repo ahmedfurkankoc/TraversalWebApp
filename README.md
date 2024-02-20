@@ -11,3 +11,4 @@ Here's what you can do with this app
 * JS
 * CSS
 
+### Capabilities
