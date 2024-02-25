@@ -1,5 +1,6 @@
 ﻿using EntityLayer.Concrete;
 using MailKit.Net.Smtp;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using MimeKit;
@@ -7,6 +8,7 @@ using TraversalCore.Models;
 
 namespace TraversalCore.Controllers
 {
+    [AllowAnonymous]
     public class PasswordChangeController : Controller
     {
         private readonly UserManager<AppUser> _userManager;

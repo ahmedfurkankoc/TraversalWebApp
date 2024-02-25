@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\controllers\\passwordchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\controllers\\passwordchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\views\\shared\\components\\_commentlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\views\\shared\\components\\_commentlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\views\\passwordchange\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\views\\passwordchange\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\viewcomponents\\comment\\_commentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\viewcomponents\\comment\\_commentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\models\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\models\\forgetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\views\\destination\\destinationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\views\\destination\\destinationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\areas\\admin\\views\\guide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\areas\\admin\\views\\guide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ForgetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\PasswordChange\\ForgetPassword.cshtml",
-              "RelativeDocumentMoniker": "TraversalCore\\Views\\PasswordChange\\ForgetPassword.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\PasswordChange\\ForgetPassword.cshtml",
-              "RelativeToolTip": "TraversalCore\\Views\\PasswordChange\\ForgetPassword.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\Shared\\Components\\_CommentList\\Default.cshtml",
+              "RelativeDocumentMoniker": "TraversalCore\\Views\\Shared\\Components\\_CommentList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\Shared\\Components\\_CommentList\\Default.cshtml",
+              "RelativeToolTip": "TraversalCore\\Views\\Shared\\Components\\_CommentList\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-18T15:43:03.1Z",
+              "WhenOpened": "2024-02-21T12:12:51.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PasswordChangeController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Controllers\\PasswordChangeController.cs",
-              "RelativeDocumentMoniker": "TraversalCore\\Controllers\\PasswordChangeController.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Controllers\\PasswordChangeController.cs",
-              "RelativeToolTip": "TraversalCore\\Controllers\\PasswordChangeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBgAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "_CommentList.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\ViewComponents\\Comment\\_CommentList.cs",
+              "RelativeDocumentMoniker": "TraversalCore\\ViewComponents\\Comment\\_CommentList.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\ViewComponents\\Comment\\_CommentList.cs",
+              "RelativeToolTip": "TraversalCore\\ViewComponents\\Comment\\_CommentList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T15:30:31.629Z",
+              "WhenOpened": "2024-02-21T12:16:33.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ForgetPasswordVM.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Models\\ForgetPasswordVM.cs",
-              "RelativeDocumentMoniker": "TraversalCore\\Models\\ForgetPasswordVM.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Models\\ForgetPasswordVM.cs",
-              "RelativeToolTip": "TraversalCore\\Models\\ForgetPasswordVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T15:29:51.931Z",
+              "Title": "DestinationDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\Destination\\DestinationDetails.cshtml",
+              "RelativeDocumentMoniker": "TraversalCore\\Views\\Destination\\DestinationDetails.cshtml",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\Destination\\DestinationDetails.cshtml",
+              "RelativeToolTip": "TraversalCore\\Views\\Destination\\DestinationDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-21T12:12:35.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
-              "RelativeDocumentMoniker": "TraversalCore\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
-              "RelativeToolTip": "TraversalCore\\Areas\\Admin\\Views\\Guide\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-18T15:20:00.139Z",
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "TraversalCore\\Controllers\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "TraversalCore\\Controllers\\DestinationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T12:12:30.886Z",
               "EditorCaption": ""
             }
           ]

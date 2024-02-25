@@ -72,7 +72,7 @@ namespace TraversalCore.Controllers
                 }
                 else
                 {
-                    return RedirectToAction("SignIn", "Login");
+                    return View(p);
                 }
             }
 

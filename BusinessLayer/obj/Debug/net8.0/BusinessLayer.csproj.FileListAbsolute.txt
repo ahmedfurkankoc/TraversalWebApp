@@ -37,3 +37,5 @@ C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.genruntimeconfig.cache
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
 C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\bin\Debug\net8.0\DTOLayer.dll
+C:\Users\ahmed\Desktop\TraversalApp\BusinessLayer\bin\Debug\net8.0\DTOLayer.pdb

@@ -1,7 +1,11 @@
 using BusinessLayer.Container;
 using DataAccessLayer.Concrete;
+using DocumentFormat.OpenXml.Office2016.Drawing.ChartDrawing;
 using EntityLayer.Concrete;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Serilog;
@@ -13,10 +17,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<Context>();
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>().AddTokenProvider<DataProtectorTokenProvider<AppUser>>(TokenOptions.DefaultProvider).AddEntityFrameworkStores<Context>();
 
+builder.Services.AddHttpClient();
+
 //Logging
 var path = Directory.GetCurrentDirectory();
 var logDirectory = "Logs";
-var logFilePath = Path.Combine(path, logDirectory, "log.txt"); ;
+var logFilePath = Path.Combine(path, logDirectory); ;
 
 builder.Services.AddLogging(x =>
 {
@@ -29,8 +35,15 @@ builder.Services.AddLogging(x =>
 
 //IoT
 builder.Services.ContainerDependency();
+//AutoMapper
+builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.CustomValidator();
 
-builder.Services.AddControllersWithViews();
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddFluentValidationClientsideAdapters();
+
+;
+//Authentication
 builder.Services.AddMvc(config =>
 {
 	var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
