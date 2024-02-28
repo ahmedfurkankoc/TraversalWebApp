@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\views\\shared\\components\\_commentlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\views\\shared\\components\\_commentlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\viewcomponents\\comment\\_commentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\viewcomponents\\comment\\_commentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\views\\destination\\destinationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\views\\destination\\destinationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|c:\\users\\ahmed\\desktop\\traversalapp\\traversalcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B20492-28E6-4AAF-80B1-DAFAB146CF57}|TraversalCore\\TraversalCore.csproj|solutionrelative:traversalcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\Shared\\Components\\_CommentList\\Default.cshtml",
-              "RelativeDocumentMoniker": "TraversalCore\\Views\\Shared\\Components\\_CommentList\\Default.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\Shared\\Components\\_CommentList\\Default.cshtml",
-              "RelativeToolTip": "TraversalCore\\Views\\Shared\\Components\\_CommentList\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-21T12:12:51.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_CommentList.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\ViewComponents\\Comment\\_CommentList.cs",
-              "RelativeDocumentMoniker": "TraversalCore\\ViewComponents\\Comment\\_CommentList.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\ViewComponents\\Comment\\_CommentList.cs",
-              "RelativeToolTip": "TraversalCore\\ViewComponents\\Comment\\_CommentList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Program.cs",
+              "RelativeDocumentMoniker": "TraversalCore\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Program.cs",
+              "RelativeToolTip": "TraversalCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T12:16:33.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DestinationDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\Destination\\DestinationDetails.cshtml",
-              "RelativeDocumentMoniker": "TraversalCore\\Views\\Destination\\DestinationDetails.cshtml",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Views\\Destination\\DestinationDetails.cshtml",
-              "RelativeToolTip": "TraversalCore\\Views\\Destination\\DestinationDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-21T12:12:35.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DestinationController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Controllers\\DestinationController.cs",
-              "RelativeDocumentMoniker": "TraversalCore\\Controllers\\DestinationController.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Desktop\\TraversalApp\\TraversalCore\\Controllers\\DestinationController.cs",
-              "RelativeToolTip": "TraversalCore\\Controllers\\DestinationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T12:12:30.886Z",
+              "WhenOpened": "2024-02-28T19:23:11.091Z",
               "EditorCaption": ""
             }
           ]
