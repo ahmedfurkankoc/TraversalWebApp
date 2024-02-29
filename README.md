@@ -1,23 +1,23 @@
-# Traversal Web App
+# ✈️Traversal Web App
 
 Traversal is a web application developed for travel agencies. I developed this application using ASP.NET Core 8 and adhered to the principles of N-Tier Architecture. I created this side project for learning purposes. My main focus was on functionalities, so there might be some UI/client-side issues.
 
 
 
-##  What I Learned
+## 👨‍💻What I Learned
 During this project, I've picked up important skills and a better understanding of complex ideas, which improved my logical thinking.
 
 
-### `EF Core:`
+### ©️`EF Core:`
 I have learned the logic and critiques of Entity Framework. I gained a deeper understanding of what DBContext represents, how relationships should be established among entities, and the process of setting up migrations. Additionally, I learned how to configure EF Core in more detail.
 
 
-### Overall
+### 💭Overall
 Each part of this project helped me understand more about building apps, managing complex information, and improving user experience. It was more than just making a web app. It was about solving problems, learning new things, and improving my skills for future work.
 
 
 
-## Technologies
+## 👾Technologies
 
 - `.NET Core`
 - `EF Core`
@@ -26,7 +26,7 @@ Each part of this project helped me understand more about building apps, managin
 - `CSS`
 
 
-## Features
+## 💯Features
 Here's what you can do with this web app.
 #### Client:
    - View destinations
