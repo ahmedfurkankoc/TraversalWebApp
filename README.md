@@ -27,22 +27,23 @@ Each part of this project helped me understand more about building apps, managin
 
 
 ## Features
-1. Client:
+Here's what you can do with this web app.
+#### Client:
    - View destinations
    - View guides
    - Send messages to the travel agency
 
-2. Admin Dashboard:
+#### Admin Dashboard:
    - Manage destinations
    - Manage guides
 
-3. Responsive Design:
+#### Responsive Design:
    - Optimized for desktop, tablet, and mobile devices
 
-4. Secure Login:
+#### Secure Login:
    - Secure login for users and administrators
 
-5. Database Integration:
+#### Database Integration:
    - Store and retrieve data using MySQL
 
 
